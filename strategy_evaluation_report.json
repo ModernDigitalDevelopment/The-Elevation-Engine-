@@ -1,0 +1,10 @@
+[
+  {
+    "category": "Morpho Blue Stablecoin Loop",
+    "simulated_yield": "28.6",
+    "token": "USDC",
+    "platform": "Morpho + Aave",
+    "risk_score": "Low",
+    "loop_depth": 2
+  }
+]
